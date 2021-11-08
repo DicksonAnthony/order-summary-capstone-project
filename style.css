@@ -16,7 +16,7 @@ img {
   border-radius: 10px 10px 0 0;
 }
 #main {
-  border: 1px solid magenta;
+  border: 1px solid rgba(255, 255, 255, 0);
   background-image: url(images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   height: 100vh;
